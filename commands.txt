@@ -1,0 +1,1 @@
+docker logs image_id
